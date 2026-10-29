@@ -1,0 +1,6 @@
+{
+  "name": "AlgoLab — Sorting & Searching Algorithm Visualizer",
+  "description": "A developer-focused educational laboratory for visualizing, stepping through, and benchmarking sorting and searching algorithms with live source code synchronization and operation traces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
